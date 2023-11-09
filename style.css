@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin-top: -25%;
+  margin-left: 10%;
+}
+video{
+  margin-left:20%;
+  margin-top:20px;
+}
+.heading{
+  width: 100%;
+  text-align: left;
+
+}
+.heading h1{
+  display:inline;
+}
+.heading button{
+  float: right;
+  border:1px solid white;
+}
